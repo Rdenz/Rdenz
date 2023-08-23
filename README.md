@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Rdenz"><img width="80%" alt="Hello, I'm DenZ. I do open source!"/></a></p>
+<p align="center"><a href="https://github.com/Rdenz"><"Hello, I'm DenZ. I do open source!"/></a></p>
 
 <br />
 
