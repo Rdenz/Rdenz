@@ -2,13 +2,13 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from PH
+I'm a self-taught passionate FrontEnd developer and BackEnd Developer from PH
 
 **About me**
 
-- 💼 FrontEnd Engineer | Software Developer
+- 💼 FrontEnd Engineer | Software Developer | IT Support
 
-- 📈 Wanna be a Ethical Hacker
+- 📈 Wanna be a Ethical Hacker? PM for more info
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
